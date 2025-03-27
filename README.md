@@ -1,4 +1,4 @@
-# 🔍 Tag Finder - Find Tags for YouTube Videos
+# 🔍 Tag Finder and Descrition Geneartor - Find Tags for YouTube Videos
 
 ![Tag Finder](https://img.shields.io/badge/Version-1.0-blue.svg)  
 Easily extract and copy YouTube video tags with **Tag Finder**! 🚀
